@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tonius16
 - 👀 I’m interested in everything about programming and computers.
-- 🌱 I’m currently learning from the start, The odin project (Html, Css, Javascript) but in the future I hope to learn much more.
 - 💞️ I’m looking to collaborate on nothing right now since I am still learning but the sooner the better.
 - 📫 How to reach me: E-mail- toni.cartman@gmail.com
 
